@@ -45,26 +45,18 @@ img {
 /* || UTILITY CLASSES */
 
 
-html,body {
+body {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100%;
     height: 100dvh;
     font-family: "Inter", monospace;
     font-size: 14px;
     color: var(--WHITE);
-}
-
-html {
-    width: 100%;
-    background-color: #000;
-    /* background-color: var(--GREY-900); */
-}
-
-body {
-    width: 66dvw;
     background-color: var(--GREY-900);
-} 
+}
+
 
 main {
     width: 320px;
@@ -131,6 +123,6 @@ a:any-link {
 }
 
 a:is(a:hover, a:focus) {
-    color: var(--GREY-900);
+    color: var(--GREY-700);
     background-color: var(--GREEN);
 }
