@@ -4,7 +4,7 @@ This' a sln to the
     (https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
 # Table of Contents
-- [Social Links Profile Solution](#social-links-profile-solution)
+- [Social Links Profile Solution]    (#social-links-profile-solution)
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [The Challenge](#the-challenge)
